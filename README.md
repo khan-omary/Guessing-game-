@@ -1,4 +1,4 @@
-# Guessing Game 🎯
+# Number Guessing Game 🎯
 
 This is a simple guessing game where the user selects a number between 1 and 20.
 
