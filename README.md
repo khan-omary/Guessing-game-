@@ -1,2 +1,17 @@
-# Guessing-game-
-This is a guessing game, that you select a number between 1 to 20 and cpu also select a number between 1 to 20 ,if match then you win other you do this for 5 times if don't choose the correct number you loss. Using HTML CSS and javascript created this game 
+# Guessing Game 🎯
+
+This is a simple guessing game where the user selects a number between 1 and 20.
+
+## How it works
+- You choose a number
+- The computer also chooses a random number
+- If both numbers match, you win 🎉
+- You have 5 attempts
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Fahim
